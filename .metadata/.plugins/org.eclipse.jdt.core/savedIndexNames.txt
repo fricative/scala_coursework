@@ -1,0 +1,11 @@
+INDEX VERSION 1.126+D:\Dropbox\scala\.metadata\.plugins\org.eclipse.jdt.core
+3359033978.index
+3518634322.index
+574328646.index
+4043552593.index
+2421678577.index
+744787725.index
+3844268029.index
+2686213411.index
+314510560.index
+2342098402.index

@@ -1,0 +1,9 @@
+import example.Lists._
+exit
+import example.Lists._
+console
+:help
+help
+console
+exi
+exit

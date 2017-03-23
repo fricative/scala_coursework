@@ -1,0 +1,183 @@
+2014-04-26 20:03:36,377  WARN [ModalContext] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during implicit highlighting.
+2014-04-26 20:04:11,926 ERROR [Worker-27] - System.err - SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2014-04-26 20:04:11,926 ERROR [Worker-27] - System.err - SLF4J: Defaulting to no-operation (NOP) logger implementation
+2014-04-26 20:04:11,926 ERROR [Worker-27] - System.err - SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2014-04-27 08:14:25,845 ERROR [Worker-13] - System.err - SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2014-04-27 08:14:25,846 ERROR [Worker-13] - System.err - SLF4J: Defaulting to no-operation (NOP) logger implementation
+2014-04-27 08:14:25,846 ERROR [Worker-13] - System.err - SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2014-04-27 11:09:50,424 ERROR [Worker-7] - System.err - SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2014-04-27 11:09:50,425 ERROR [Worker-7] - System.err - SLF4J: Defaulting to no-operation (NOP) logger implementation
+2014-04-27 11:09:50,426 ERROR [Worker-7] - System.err - SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2014-04-27 20:48:15,616 ERROR [Worker-4] - System.err - Java Model Exception: Java Model Status [progfun-example does not exist]
+2014-04-27 20:48:15,633 ERROR [Worker-4] - System.err - at org.eclipse.jdt.internal.core.JavaElement.newNotPresentException(JavaElement.java:498)
+2014-04-27 20:48:15,633 ERROR [Worker-4] - System.err - at org.eclipse.jdt.internal.core.JavaModelManager.getPerProjectInfoCheckExistence(JavaModelManager.java:2309)
+2014-04-27 20:48:15,634 ERROR [Worker-4] - System.err - at org.eclipse.jdt.internal.core.JavaProject.getPerProjectInfo(JavaProject.java:1908)
+2014-04-27 20:48:15,634 ERROR [Worker-4] - System.err - at org.eclipse.jdt.internal.core.JavaProject.getRawClasspath(JavaProject.java:1930)
+2014-04-27 20:48:15,634 ERROR [Worker-4] - System.err - at scala.tools.eclipse.ClasspathManagement$class.jdkPaths(ClasspathManagement.scala:138)
+2014-04-27 20:48:15,634 ERROR [Worker-4] - System.err - at scala.tools.eclipse.ScalaProject.jdkPaths(ScalaProject.scala:80)
+2014-04-27 20:48:15,634 ERROR [Worker-4] - System.err - at scala.tools.eclipse.ClasspathManagement$class.scalaClasspath(ClasspathManagement.scala:118)
+2014-04-27 20:48:15,634 ERROR [Worker-4] - System.err - at scala.tools.eclipse.ScalaProject.scalaClasspath(ScalaProject.scala:80)
+2014-04-27 20:48:15,634 ERROR [Worker-4] - System.err - at scala.tools.eclipse.ScalaProject.setupCompilerClasspath(ScalaProject.scala:514)
+2014-04-27 20:48:15,635 ERROR [Worker-4] - System.err - at scala.tools.eclipse.ScalaProject.initializeCompilerSettings(ScalaProject.scala:500)
+2014-04-27 20:48:15,635 ERROR [Worker-4] - System.err - at scala.tools.eclipse.ScalaProject$$anon$1.create(ScalaProject.scala:99)
+2014-04-27 20:48:15,635 ERROR [Worker-4] - System.err - at scala.tools.eclipse.ScalaProject$$anon$1.create(ScalaProject.scala:95)
+2014-04-27 20:48:15,635 ERROR [Worker-4] - System.err - at scala.tools.eclipse.util.Cached$class.apply(Cached.scala:30)
+2014-04-27 20:48:15,635 ERROR [Worker-4] - System.err - at scala.tools.eclipse.ScalaProject$$anon$1.apply(ScalaProject.scala:95)
+2014-04-27 20:48:15,635 ERROR [Worker-4] - System.err - at scala.tools.eclipse.ScalaProject.withPresentationCompiler(ScalaProject.scala:594)
+2014-04-27 20:48:15,635 ERROR [Worker-4] - System.err - at scala.tools.eclipse.ScalaProject.withSourceFile(ScalaProject.scala:603)
+2014-04-27 20:48:15,635 ERROR [Worker-4] - System.err - at scala.tools.eclipse.InteractiveCompilationUnit$class.withSourceFile(InteractiveCompilationUnit.scala:66)
+2014-04-27 20:48:15,636 ERROR [Worker-4] - System.err - at scala.tools.eclipse.javaelements.ScalaSourceFile.withSourceFile(ScalaSourceFile.scala:69)
+2014-04-27 20:48:15,636 ERROR [Worker-4] - System.err - at scala.tools.eclipse.semantichighlighting.Presenter$SemanticHighlightingJob.performSemanticHighlighting(Presenter.scala:145)
+2014-04-27 20:48:15,636 ERROR [Worker-4] - System.err - at scala.tools.eclipse.semantichighlighting.Presenter$SemanticHighlightingJob.run(Presenter.scala:114)
+2014-04-27 20:48:15,636 ERROR [Worker-4] - System.err - at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+2014-04-27 20:48:15,650 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Java Model Exception: Java Model Status [progfun-example does not exist]
+2014-05-03 10:58:31,066 ERROR [Worker-8] - System.err - SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2014-05-03 10:58:31,079 ERROR [Worker-8] - System.err - SLF4J: Defaulting to no-operation (NOP) logger implementation
+2014-05-03 10:58:31,079 ERROR [Worker-8] - System.err - SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2014-05-03 11:59:02,404  WARN [main] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during implicit highlighting.
+2014-05-06 09:03:24,658 ERROR [Worker-5] - System.err - Java Model Exception: Java Model Status [progfun-recfun does not exist]
+2014-05-06 09:03:24,672 ERROR [Worker-5] - System.err - at org.eclipse.jdt.internal.core.JavaElement.newNotPresentException(JavaElement.java:498)
+2014-05-06 09:03:24,673 ERROR [Worker-5] - System.err - at org.eclipse.jdt.internal.core.JavaModelManager.getPerProjectInfoCheckExistence(JavaModelManager.java:2309)
+2014-05-06 09:03:24,673 ERROR [Worker-5] - System.err - at org.eclipse.jdt.internal.core.JavaProject.getPerProjectInfo(JavaProject.java:1908)
+2014-05-06 09:03:24,673 ERROR [Worker-5] - System.err - at org.eclipse.jdt.internal.core.JavaProject.getRawClasspath(JavaProject.java:1930)
+2014-05-06 09:03:24,673 ERROR [Worker-5] - System.err - at scala.tools.eclipse.ClasspathManagement$class.jdkPaths(ClasspathManagement.scala:138)
+2014-05-06 09:03:24,673 ERROR [Worker-5] - System.err - at scala.tools.eclipse.ScalaProject.jdkPaths(ScalaProject.scala:80)
+2014-05-06 09:03:24,673 ERROR [Worker-5] - System.err - at scala.tools.eclipse.ClasspathManagement$class.scalaClasspath(ClasspathManagement.scala:118)
+2014-05-06 09:03:24,673 ERROR [Worker-5] - System.err - at scala.tools.eclipse.ScalaProject.scalaClasspath(ScalaProject.scala:80)
+2014-05-06 09:03:24,673 ERROR [Worker-5] - System.err - at scala.tools.eclipse.ScalaProject.setupCompilerClasspath(ScalaProject.scala:514)
+2014-05-06 09:03:24,673 ERROR [Worker-5] - System.err - at scala.tools.eclipse.ScalaProject.initializeCompilerSettings(ScalaProject.scala:500)
+2014-05-06 09:03:24,673 ERROR [Worker-5] - System.err - at scala.tools.eclipse.ScalaProject$$anon$1.create(ScalaProject.scala:99)
+2014-05-06 09:03:24,673 ERROR [Worker-5] - System.err - at scala.tools.eclipse.ScalaProject$$anon$1.create(ScalaProject.scala:95)
+2014-05-06 09:03:24,673 ERROR [Worker-5] - System.err - at scala.tools.eclipse.util.Cached$class.apply(Cached.scala:30)
+2014-05-06 09:03:24,673 ERROR [Worker-5] - System.err - at scala.tools.eclipse.ScalaProject$$anon$1.apply(ScalaProject.scala:95)
+2014-05-06 09:03:24,673 ERROR [Worker-5] - System.err - at scala.tools.eclipse.ScalaProject.withPresentationCompiler(ScalaProject.scala:594)
+2014-05-06 09:03:24,674 ERROR [Worker-5] - System.err - at scala.tools.eclipse.ScalaProject.withSourceFile(ScalaProject.scala:603)
+2014-05-06 09:03:24,674 ERROR [Worker-5] - System.err - at scala.tools.eclipse.InteractiveCompilationUnit$class.withSourceFile(InteractiveCompilationUnit.scala:66)
+2014-05-06 09:03:24,674 ERROR [Worker-5] - System.err - at scala.tools.eclipse.javaelements.ScalaSourceFile.withSourceFile(ScalaSourceFile.scala:69)
+2014-05-06 09:03:24,674 ERROR [Worker-5] - System.err - at scala.tools.eclipse.semantichighlighting.Presenter$SemanticHighlightingJob.performSemanticHighlighting(Presenter.scala:145)
+2014-05-06 09:03:24,674 ERROR [Worker-5] - System.err - at scala.tools.eclipse.semantichighlighting.Presenter$SemanticHighlightingJob.run(Presenter.scala:114)
+2014-05-06 09:03:24,674 ERROR [Worker-5] - System.err - at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+2014-05-06 09:03:24,682 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Java Model Exception: Java Model Status [progfun-recfun does not exist]
+2014-05-11 22:37:54,537 ERROR [Worker-73] - SemanticHighlightingJob - Error while performing semantic highlighting
+java.lang.RuntimeException: bad position: [615:612]
+	at scala.sys.package$.error(package.scala:27)
+	at scala.reflect.internal.util.RangePosition.<init>(Position.scala:273)
+	at scala.reflect.internal.util.RangePosition.withStart(Position.scala:278)
+	at scala.reflect.internal.util.RangePosition.withStart(Position.scala:271)
+	at scala.tools.refactoring.common.PimpedTrees$TreeMethodsForPositions.namePosition(PimpedTrees.scala:168)
+	at scala.tools.eclipse.semantichighlighting.classifier.SafeSymbol$class.safeSymbol(SafeSymbol.scala:122)
+	at scala.tools.eclipse.semantichighlighting.classifier.SymbolClassification.safeSymbol(SymbolClassification.scala:37)
+	at scala.tools.eclipse.semantichighlighting.classifier.SymbolClassification$$anonfun$5.apply(SymbolClassification.scala:68)
+	at scala.tools.eclipse.semantichighlighting.classifier.SymbolClassification$$anonfun$5.apply(SymbolClassification.scala:66)
+	at scala.collection.TraversableLike$$anonfun$flatMap$1.apply(TraversableLike.scala:251)
+	at scala.collection.TraversableLike$$anonfun$flatMap$1.apply(TraversableLike.scala:251)
+	at scala.collection.immutable.List.foreach(List.scala:318)
+	at scala.collection.TraversableLike$class.flatMap(TraversableLike.scala:251)
+	at scala.collection.AbstractTraversable.flatMap(Traversable.scala:105)
+	at scala.tools.eclipse.semantichighlighting.classifier.SymbolClassification.classifySymbols(SymbolClassification.scala:66)
+	at scala.tools.eclipse.semantichighlighting.Presenter$SemanticHighlightingJob$$anonfun$performSemanticHighlighting$1.apply(Presenter.scala:122)
+	at scala.tools.eclipse.semantichighlighting.Presenter$SemanticHighlightingJob$$anonfun$performSemanticHighlighting$1.apply(Presenter.scala:118)
+	at scala.tools.eclipse.ScalaPresentationCompiler.withSourceFile(ScalaPresentationCompiler.scala:108)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withSourceFile$1.apply(ScalaProject.scala:602)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withSourceFile$1.apply(ScalaProject.scala:601)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withPresentationCompiler$1.apply(ScalaProject.scala:595)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withPresentationCompiler$1.apply(ScalaProject.scala:594)
+	at scala.tools.eclipse.util.Cached$class.apply(Cached.scala:41)
+	at scala.tools.eclipse.ScalaProject$$anon$1.apply(ScalaProject.scala:95)
+	at scala.tools.eclipse.ScalaProject.withPresentationCompiler(ScalaProject.scala:594)
+	at scala.tools.eclipse.ScalaProject.withSourceFile(ScalaProject.scala:603)
+	at scala.tools.eclipse.InteractiveCompilationUnit$class.withSourceFile(InteractiveCompilationUnit.scala:66)
+	at scala.tools.eclipse.javaelements.ScalaSourceFile.withSourceFile(ScalaSourceFile.scala:69)
+	at scala.tools.eclipse.semantichighlighting.Presenter$SemanticHighlightingJob.performSemanticHighlighting(Presenter.scala:145)
+	at scala.tools.eclipse.semantichighlighting.Presenter$SemanticHighlightingJob.run(Presenter.scala:114)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+2014-05-11 22:37:55,419 ERROR [Worker-82] - SemanticHighlightingJob - Error while performing semantic highlighting
+java.lang.RuntimeException: bad position: [616:612]
+	at scala.sys.package$.error(package.scala:27)
+	at scala.reflect.internal.util.RangePosition.<init>(Position.scala:273)
+	at scala.reflect.internal.util.RangePosition.withStart(Position.scala:278)
+	at scala.reflect.internal.util.RangePosition.withStart(Position.scala:271)
+	at scala.tools.refactoring.common.PimpedTrees$TreeMethodsForPositions.namePosition(PimpedTrees.scala:168)
+	at scala.tools.eclipse.semantichighlighting.classifier.SafeSymbol$class.safeSymbol(SafeSymbol.scala:122)
+	at scala.tools.eclipse.semantichighlighting.classifier.SymbolClassification.safeSymbol(SymbolClassification.scala:37)
+	at scala.tools.eclipse.semantichighlighting.classifier.SymbolClassification$$anonfun$5.apply(SymbolClassification.scala:68)
+	at scala.tools.eclipse.semantichighlighting.classifier.SymbolClassification$$anonfun$5.apply(SymbolClassification.scala:66)
+	at scala.collection.TraversableLike$$anonfun$flatMap$1.apply(TraversableLike.scala:251)
+	at scala.collection.TraversableLike$$anonfun$flatMap$1.apply(TraversableLike.scala:251)
+	at scala.collection.immutable.List.foreach(List.scala:318)
+	at scala.collection.TraversableLike$class.flatMap(TraversableLike.scala:251)
+	at scala.collection.AbstractTraversable.flatMap(Traversable.scala:105)
+	at scala.tools.eclipse.semantichighlighting.classifier.SymbolClassification.classifySymbols(SymbolClassification.scala:66)
+	at scala.tools.eclipse.semantichighlighting.Presenter$SemanticHighlightingJob$$anonfun$performSemanticHighlighting$1.apply(Presenter.scala:122)
+	at scala.tools.eclipse.semantichighlighting.Presenter$SemanticHighlightingJob$$anonfun$performSemanticHighlighting$1.apply(Presenter.scala:118)
+	at scala.tools.eclipse.ScalaPresentationCompiler.withSourceFile(ScalaPresentationCompiler.scala:108)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withSourceFile$1.apply(ScalaProject.scala:602)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withSourceFile$1.apply(ScalaProject.scala:601)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withPresentationCompiler$1.apply(ScalaProject.scala:595)
+	at scala.tools.eclipse.ScalaProject$$anonfun$withPresentationCompiler$1.apply(ScalaProject.scala:594)
+	at scala.tools.eclipse.util.Cached$class.apply(Cached.scala:41)
+	at scala.tools.eclipse.ScalaProject$$anon$1.apply(ScalaProject.scala:95)
+	at scala.tools.eclipse.ScalaProject.withPresentationCompiler(ScalaProject.scala:594)
+	at scala.tools.eclipse.ScalaProject.withSourceFile(ScalaProject.scala:603)
+	at scala.tools.eclipse.InteractiveCompilationUnit$class.withSourceFile(InteractiveCompilationUnit.scala:66)
+	at scala.tools.eclipse.javaelements.ScalaSourceFile.withSourceFile(ScalaSourceFile.scala:69)
+	at scala.tools.eclipse.semantichighlighting.Presenter$SemanticHighlightingJob.performSemanticHighlighting(Presenter.scala:145)
+	at scala.tools.eclipse.semantichighlighting.Presenter$SemanticHighlightingJob.run(Presenter.scala:114)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+2014-05-14 14:30:32,843 ERROR [Worker-5] - System.err - Java Model Exception: Java Model Status [progfun-funsets does not exist]
+2014-05-14 14:30:32,859 ERROR [Worker-5] - System.err - at org.eclipse.jdt.internal.core.JavaElement.newNotPresentException(JavaElement.java:498)
+2014-05-14 14:30:32,859 ERROR [Worker-5] - System.err - at org.eclipse.jdt.internal.core.JavaModelManager.getPerProjectInfoCheckExistence(JavaModelManager.java:2309)
+2014-05-14 14:30:32,859 ERROR [Worker-5] - System.err - at org.eclipse.jdt.internal.core.JavaProject.getPerProjectInfo(JavaProject.java:1908)
+2014-05-14 14:30:32,859 ERROR [Worker-5] - System.err - at org.eclipse.jdt.internal.core.JavaProject.getRawClasspath(JavaProject.java:1930)
+2014-05-14 14:30:32,860 ERROR [Worker-5] - System.err - at scala.tools.eclipse.ClasspathManagement$class.jdkPaths(ClasspathManagement.scala:138)
+2014-05-14 14:30:32,860 ERROR [Worker-5] - System.err - at scala.tools.eclipse.ScalaProject.jdkPaths(ScalaProject.scala:80)
+2014-05-14 14:30:32,860 ERROR [Worker-5] - System.err - at scala.tools.eclipse.ClasspathManagement$class.scalaClasspath(ClasspathManagement.scala:118)
+2014-05-14 14:30:32,860 ERROR [Worker-5] - System.err - at scala.tools.eclipse.ScalaProject.scalaClasspath(ScalaProject.scala:80)
+2014-05-14 14:30:32,860 ERROR [Worker-5] - System.err - at scala.tools.eclipse.ScalaProject.setupCompilerClasspath(ScalaProject.scala:514)
+2014-05-14 14:30:32,860 ERROR [Worker-5] - System.err - at scala.tools.eclipse.ScalaProject.initializeCompilerSettings(ScalaProject.scala:500)
+2014-05-14 14:30:32,860 ERROR [Worker-5] - System.err - at scala.tools.eclipse.ScalaProject$$anon$1.create(ScalaProject.scala:99)
+2014-05-14 14:30:32,860 ERROR [Worker-5] - System.err - at scala.tools.eclipse.ScalaProject$$anon$1.create(ScalaProject.scala:95)
+2014-05-14 14:30:32,860 ERROR [Worker-5] - System.err - at scala.tools.eclipse.util.Cached$class.apply(Cached.scala:30)
+2014-05-14 14:30:32,860 ERROR [Worker-5] - System.err - at scala.tools.eclipse.ScalaProject$$anon$1.apply(ScalaProject.scala:95)
+2014-05-14 14:30:32,860 ERROR [Worker-5] - System.err - at scala.tools.eclipse.ScalaProject.withPresentationCompiler(ScalaProject.scala:594)
+2014-05-14 14:30:32,860 ERROR [Worker-5] - System.err - at scala.tools.eclipse.ScalaProject.withSourceFile(ScalaProject.scala:603)
+2014-05-14 14:30:32,860 ERROR [Worker-5] - System.err - at scala.tools.eclipse.InteractiveCompilationUnit$class.withSourceFile(InteractiveCompilationUnit.scala:66)
+2014-05-14 14:30:32,861 ERROR [Worker-5] - System.err - at scala.tools.eclipse.javaelements.ScalaSourceFile.withSourceFile(ScalaSourceFile.scala:69)
+2014-05-14 14:30:32,861 ERROR [Worker-5] - System.err - at scala.tools.eclipse.semantichighlighting.Presenter$SemanticHighlightingJob.performSemanticHighlighting(Presenter.scala:145)
+2014-05-14 14:30:32,861 ERROR [Worker-5] - System.err - at scala.tools.eclipse.semantichighlighting.Presenter$SemanticHighlightingJob.run(Presenter.scala:114)
+2014-05-14 14:30:32,861 ERROR [Worker-5] - System.err - at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+2014-05-14 14:30:32,878 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Java Model Exception: Java Model Status [progfun-funsets does not exist]
+2014-05-14 14:31:41,022 ERROR [ForkJoinPool-1-worker-29] - System.err - WorksheetManager <actor>: caught java.util.NoSuchElementException: None.get
+2014-05-14 14:31:41,022 ERROR [ForkJoinPool-1-worker-29] - System.err - java.util.NoSuchElementException: None.get
+2014-05-14 14:31:41,022 ERROR [ForkJoinPool-1-worker-29] - System.err - at scala.None$.get(Option.scala:313)
+2014-05-14 14:31:41,022 ERROR [ForkJoinPool-1-worker-29] - System.err - at scala.None$.get(Option.scala:311)
+2014-05-14 14:31:41,022 ERROR [ForkJoinPool-1-worker-29] - System.err - at org.scalaide.worksheet.ScriptCompilationUnit.scalaProject$lzycompute(ScriptCompilationUnit.scala:33)
+2014-05-14 14:31:41,023 ERROR [ForkJoinPool-1-worker-29] - System.err - at org.scalaide.worksheet.ScriptCompilationUnit.scalaProject(ScriptCompilationUnit.scala:33)
+2014-05-14 14:31:41,023 ERROR [ForkJoinPool-1-worker-29] - System.err - at org.scalaide.worksheet.runtime.WorksheetsManager.org$scalaide$worksheet$runtime$WorksheetsManager$$forwardIfEvaluatorExists(WorksheetsManager.scala:53)
+2014-05-14 14:31:41,023 ERROR [ForkJoinPool-1-worker-29] - System.err - at org.scalaide.worksheet.runtime.WorksheetsManager$$anonfun$act$1$$anonfun$apply$1.applyOrElse(WorksheetsManager.scala:34)
+2014-05-14 14:31:41,023 ERROR [ForkJoinPool-1-worker-29] - System.err - at scala.runtime.AbstractPartialFunction$mcVL$sp.apply$mcVL$sp(AbstractPartialFunction.scala:33)
+2014-05-14 14:31:41,023 ERROR [ForkJoinPool-1-worker-29] - System.err - at scala.runtime.AbstractPartialFunction$mcVL$sp.apply(AbstractPartialFunction.scala:33)
+2014-05-14 14:31:41,023 ERROR [ForkJoinPool-1-worker-29] - System.err - at scala.runtime.AbstractPartialFunction$mcVL$sp.apply(AbstractPartialFunction.scala:25)
+2014-05-14 14:31:41,024 ERROR [ForkJoinPool-1-worker-29] - System.err - at scala.actors.ReactorTask.run(ReactorTask.scala:31)
+2014-05-14 14:31:41,024 ERROR [ForkJoinPool-1-worker-29] - System.err - at scala.actors.ReactorTask.compute(ReactorTask.scala:63)
+2014-05-14 14:31:41,024 ERROR [ForkJoinPool-1-worker-29] - System.err - at scala.concurrent.forkjoin.RecursiveAction.exec(RecursiveAction.java:160)
+2014-05-14 14:31:41,024 ERROR [ForkJoinPool-1-worker-29] - System.err - at scala.concurrent.forkjoin.ForkJoinTask.doExec(ForkJoinTask.java:260)
+2014-05-14 14:31:41,024 ERROR [ForkJoinPool-1-worker-29] - System.err - at scala.concurrent.forkjoin.ForkJoinPool$WorkQueue.pollAndExecAll(ForkJoinPool.java:1253)
+2014-05-14 14:31:41,024 ERROR [ForkJoinPool-1-worker-29] - System.err - at scala.concurrent.forkjoin.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1346)
+2014-05-14 14:31:41,025 ERROR [ForkJoinPool-1-worker-29] - System.err - at scala.concurrent.forkjoin.ForkJoinPool.runWorker(ForkJoinPool.java:1979)
+2014-05-14 14:31:41,025 ERROR [ForkJoinPool-1-worker-29] - System.err - at scala.concurrent.forkjoin.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:107)
+2014-05-15 00:06:41,746  WARN [ModalContext] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during implicit highlighting.
+2014-05-16 09:20:41,154 ERROR [Worker-30] - System.err - SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2014-05-16 09:20:41,171 ERROR [Worker-30] - System.err - SLF4J: Defaulting to no-operation (NOP) logger implementation
+2014-05-16 09:20:41,171 ERROR [Worker-30] - System.err - SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2014-05-16 10:45:15,935 ERROR [Worker-4] - System.err - SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2014-05-16 10:45:15,936 ERROR [Worker-4] - System.err - SLF4J: Defaulting to no-operation (NOP) logger implementation
+2014-05-16 10:45:15,937 ERROR [Worker-4] - System.err - SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2014-05-17 08:57:41,942  WARN [org.eclipse.jdt.internal.ui.text.JavaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during implicit highlighting.
+2014-05-17 09:43:26,055 ERROR [Worker-24] - System.err - SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2014-05-17 09:43:26,055 ERROR [Worker-24] - System.err - SLF4J: Defaulting to no-operation (NOP) logger implementation
+2014-05-17 09:43:26,055 ERROR [Worker-24] - System.err - SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2014-06-07 14:33:09,827 ERROR [Worker-281] - System.err - SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2014-06-07 14:33:09,843 ERROR [Worker-281] - System.err - SLF4J: Defaulting to no-operation (NOP) logger implementation
+2014-06-07 14:33:09,844 ERROR [Worker-281] - System.err - SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2014-06-07 20:16:00,812  WARN [org.eclipse.jdt.internal.ui.text.JavaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during implicit highlighting.
